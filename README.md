@@ -1,5 +1,5 @@
 # VBIS Chapter 3 - SQL Assignment
-- Name: Nəzrin Qasımlı
+- Name: Rasim Xəlilov
 - QRUP:MRM24
 
 ## Project Description
