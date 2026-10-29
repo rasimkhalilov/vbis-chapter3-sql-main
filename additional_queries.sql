@@ -1,0 +1,2 @@
+-- Optional exercises were not completed.
+-- Only mandatory exercises are included.
